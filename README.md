@@ -1,2 +1,2 @@
 # coursera-test
-Test repo for coursera
+A Single Web Application using AngularJS
